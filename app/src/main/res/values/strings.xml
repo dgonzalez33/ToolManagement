@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToolManagement</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="name">David Gonzalez</string>
+    <string name="email">dgonzalez33@miners.utep.edu</string>
+    <string name="action_settings">Settings</string>
+</resources>
